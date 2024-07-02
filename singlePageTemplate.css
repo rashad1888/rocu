@@ -230,7 +230,7 @@ ul li:hover a {
 /* Parallax Section */
 .banner {
 	
-	background-image: url("../bgi.avif");
+	background-image: url("bgi.avif");
 	height: 700px;
 	background-attachment: fixed;
 	background-size: cover;
